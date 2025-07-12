@@ -1,4 +1,4 @@
-# Desafio, Calculadora de partidas Rankeadas
+# Calculadora de partidas Rankeadas
 
 
 ## Instruções do Desafio
@@ -37,35 +37,39 @@ Estruturas de decisão (if, else if).
 Funções (calcularRanked, iniciarCalculadora).
 
 
-# 1. Funções
+## 1. Funções
 O código utiliza funções para organizar e reaproveitar a lógica.
 A função principal (calcularRanked) recebe como parâmetros o número de vitórias e derrotas, calcula o saldo e retorna o nível do jogador conforme as regras definidas.
 
 
-# 2. Variáveis
+## 2. Variáveis
 São usadas variáveis para armazenar o número de vitórias, derrotas, saldo de vitórias, nível e para controlar o fluxo de execução.
 
 
-# 3. Operadores
+## 3. Operadores
 O operador de subtração (-) é usado para calcular o saldo de vitórias.
 Operadores de comparação (<, >=, <=) são usados nas estruturas de decisão para determinar o nível do jogador.
 
 
-# 4. Estruturas de decisão
+## 4. Estruturas de decisão
 O código utiliza estruturas condicionais (if, else if) para verificar em qual faixa de vitórias o jogador se encaixa e assim definir seu nível (Ferro, Bronze, Prata, etc.).
 
 
-# 5. Laços de repetição
+## 5. Laços de repetição
 O laço while permite que o usuário faça múltiplos cálculos seguidos, perguntando se deseja continuar após cada cálculo.
 
 
-# 6. Saída
+## 6. Saída
 Ao final de cada execução, é exibida uma mensagem informando o saldo de vitórias e o nível do jogador, conforme solicitado no enunciado.
 
 
-# 7. Interatividade
+## 7. Interatividade
 O código está preparado para ser executado em ambientes interativos, usando prompt para entrada de dados e alert para saída, facilitando o uso pelo jogador.
 
-**Educador:** Felipe Aguiar  
+
+
 **Plataforma:** [DIO.](https://dio.me)
+
+**Educador:** Felipe Aguiar  
+
 **Github**  https://github.com/felipeAguiarCode
